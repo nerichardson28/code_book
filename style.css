@@ -57,6 +57,12 @@ p{
 	text-align: left;
 	font-size:20px;
 }
+.title{
+	text-align:center;
+}
+.navigation{
+	text-align:center;
+}
 img{
   padding:.5cm;
 }
@@ -89,5 +95,6 @@ img{
   width: 25%;
 
 }
+
 
 
